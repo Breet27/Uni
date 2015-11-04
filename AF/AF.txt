@@ -1,0 +1,6 @@
+AF Buch
+
+Einführung in die Automatentheorie Formaler Sprachen 
+und komplexitätstheorien
+
+ISBN:	978-3-8273-7020-4

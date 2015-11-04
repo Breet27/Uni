@@ -1,0 +1,22 @@
+Übung_1_01PM 02.10.2015
+
+dummy.txt
+letzte zeile Zahl
+addiere 1 zur Zahl erebniss in die datei
+falls nein 1 in die datei
+
+Pseudocode:
+open stream (reader)
+try open dummy.txt
+catch FileNotFoundExce...
+readline (bis zur letzten) + Merken
+Zeile ---> Zahl +1
+close reader
+schreibe gemerktes + neue zahl
+
+open stream (writer)
+letze zeile +1
+[ergebniss = letze zahl + 1]
+catch Exce...
+close stream (writer)
+  

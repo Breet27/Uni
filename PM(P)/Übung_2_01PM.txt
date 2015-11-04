@@ -1,0 +1,10 @@
+Übung_2_01PM 02.10.2015
+
+<?xml version="1.0" encoding="iso-8859-1"=>
+<zoo>
+ <affenhaus>
+  <paviane name= "Hal"/>
+  <schimpanse name= "Sue"/>
+  <schimpanse name = "Leo"/>
+ </affenhaus>
+</zoo>
